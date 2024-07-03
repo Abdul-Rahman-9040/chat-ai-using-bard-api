@@ -48,9 +48,9 @@ Replace your_bard_api_key with your actual Bard API key.
 ## Contributing
 Contributions are welcome! Please follow these steps to contribute:
 - Fork the repository
-- Create a new branch (git checkout -b feature/your-feature)
-- Commit your changes (git commit -m 'Add some feature')
-- Push to the branch (git push origin feature/your-feature)
+- Create a new branch
+- Commit your changes
+- Push to the branch
 - Open a Pull Request
 
 ## License
