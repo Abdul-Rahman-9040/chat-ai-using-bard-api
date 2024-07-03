@@ -23,6 +23,6 @@ To get started with Chat-AI, follow these steps:
    ```bash
    git clone https://github.com/your-username/chat-ai.git
    cd chat-ai
-2. Installation
-   '''bash
+2. Install the required dependencies:
+  ```bash
    npm install
