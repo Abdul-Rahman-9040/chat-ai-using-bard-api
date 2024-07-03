@@ -46,12 +46,12 @@ BARD_API_KEY=your_bard_api_key
 Replace your_bard_api_key with your actual Bard API key.
 
 ## Contributing
-Contributions are welcome! Please follow these steps to contribute:
-1.Fork the repository
-2.Create a new branch (git checkout -b feature/your-feature)
-3.Commit your changes (git commit -m 'Add some feature')
-4.Push to the branch (git push origin feature/your-feature)
-5.Open a Pull Request
+1.Contributions are welcome! Please follow these steps to contribute:
+2.Fork the repository
+3.Create a new branch (git checkout -b feature/your-feature)
+4.Commit your changes (git commit -m 'Add some feature')
+5.Push to the branch (git push origin feature/your-feature)
+6.Open a Pull Request
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
