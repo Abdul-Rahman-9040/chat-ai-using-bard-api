@@ -6,11 +6,6 @@ Chat-AI is a conversational AI application built with Node.js using the Bard API
 
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [API Reference](#api-reference)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -28,3 +23,6 @@ To get started with Chat-AI, follow these steps:
    ```bash
    git clone https://github.com/your-username/chat-ai.git
    cd chat-ai
+2. Installation
+   '''bash
+   npm install
