@@ -25,8 +25,8 @@ To get started with Chat-AI, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/chat-ai.git
-   cd chat-ai
+   https://github.com/Abdul-Rahman-9040/chat-ai-using-bard-api.git
+   cd chat-ai-using-bard-api
 2. Install the required dependencies:
   ```bash
    npm install
