@@ -6,6 +6,10 @@ Chat-AI is a conversational AI application built with Node.js using the Bard API
 
 - [Features](#features)
 - [Installation](#installation)
+- [Usage](#usage)
+- [Configuration](#configuration)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Features
 
@@ -26,3 +30,26 @@ To get started with Chat-AI, follow these steps:
 2. Install the required dependencies:
   ```bash
    npm install
+```
+## Usage
+To run the application, use the following command
+  ```bash
+   npm start
+```
+## Configuration
+Before running the application, you need to configure your Bard API credentials. Create a .env file in the root directory of the project and add the following:
+  ```bash
+   BARD_API_KEY=your_bard_api_key
+```
+## Contributing
+Contributions are welcome! Please follow these steps to contribute:
+1.Fork the repository
+2.Create a new branch
+3.Commit your changes
+4.Push to the branch 
+5.Open a Pull Request
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+  ```bash   
+You can customize the repository link, API details, and any other project-specific information as needed.
+```
